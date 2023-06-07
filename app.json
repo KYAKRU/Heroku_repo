@@ -7,7 +7,7 @@
         "telegram bot",
         "pyrogram"
     ],
-    "repository": "https://github.com/mrHypertrix/Arch",
+    "repository": "https://github.com/KYAKRU/Heroku_repo",
     "success_url": "https://t.me/AdityaDiscus",
     "env": {
         "API_ID": {
@@ -38,7 +38,7 @@
         "OWNER_ID": {
             "description": "𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
             "required": true,
-            "value": "6037211266"
+            "value": "5498943520"
         },
         "LOG_GROUP_ID": {
             "description": "𝑩𝒐𝒕 𝑳𝒐𝒈𝒈𝒆𝒓 𝑮𝒓𝒐𝒖𝒑 𝑰𝑫",
@@ -47,17 +47,17 @@
         "MUSIC_BOT_NAME": {
             "description": "𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆 (𝑼𝒔𝒆 𝑵𝒐𝒓𝒎𝒂𝒍 𝑭𝒐𝒏𝒕)",
             "required": true,
-            "value": "CUTIE PIE AAROHI"
+            "value": "TRISHA ROBOT"
         },
         "SUPPORT_CHANNEL": {
             "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑳𝒊𝒏𝒌 𝑰𝒇 𝒀𝒐𝒖 𝑯𝒂𝒗𝒆 𝑬𝒍𝒔𝒆 𝑳𝒆𝒂𝒗𝒆 𝑰𝒕 𝑨𝒔 𝑫𝒆𝒇𝒂𝒖𝒍𝒕",
             "required": false,
-            "value": "https://t.me/naughty_aarohi"
+            "value": "https://t.me/ArchBots"
         },
         "SUPPORT_GROUP": {
             "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑮𝒓𝒐𝒖𝒑 𝑳𝒊𝒏𝒌 𝑰𝒇 𝒀𝒐𝒖 𝑯𝒂𝒗𝒆 𝑬𝒍𝒔𝒆 𝑳𝒆𝒂𝒗𝒆 𝑰𝒕 𝑨𝒔 𝑫𝒆𝒇𝒂𝒖𝒍𝒕",
             "required": false,
-            "value": "https://t.me/+sbj9cliWcS05MzM1"
+            "value": "https://t.me/ARCH_SUPPORTS"
         }
     },
     "addons": [],
